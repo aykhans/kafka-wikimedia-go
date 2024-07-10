@@ -1,6 +1,6 @@
 # Implementation of the Wikimedia Project in Golang
 
-This project provides a Golang implementation of the Wikimedia project as discussed by [Stephane Maarek](https://github.com/simplesteph) in his Kafka beginners course. The original Java consumer and producer repositories can be found here:
+This project provides a Golang implementation of the Wikimedia project as discussed by [Stephane Maarek](https://github.com/simplesteph) in his [Kafka beginners course](https://www.udemy.com/share/1013hc/). The original Java consumer and producer repositories can be found here:
 
 - [Consumer](https://github.com/conduktor/kafka-beginners-course/tree/main/kafka-consumer-opensearch)
 - [Producer](https://github.com/conduktor/kafka-beginners-course/tree/main/kafka-producer-wikimedia)
